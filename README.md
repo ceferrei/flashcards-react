@@ -31,7 +31,7 @@ A simple flashcard application built with React that displays a series of questi
    ```
 
 3. Start the development server:
-   `` npm start````
+   ``` npm start```
 
 4. Open in your browser: http://localhost:3000
 
