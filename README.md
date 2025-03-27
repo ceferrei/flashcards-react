@@ -4,15 +4,13 @@ A simple flashcard application built with React that displays a series of questi
 
 ## Preview
 
-<video src="public/projectResult.mp4" controls width="600">
-  Seu navegador não suporta o elemento de vídeo.
-</video>
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/d7214f43-9ef2-40ff-b23f-b23b6182eda1" controls width="600">
+    Seu navegador não suporta o elemento de vídeo.
+  </video>
+</div>
 
-<video src="[public/projectResult.mp4](https://github.com/user-attachments/assets/d7214f43-9ef2-40ff-b23f-b23b6182eda1)" controls width="600">
-  Seu navegador não suporta o elemento de vídeo.
-</video>
 
-https://github.com/user-attachments/assets/d7214f43-9ef2-40ff-b23f-b23b6182eda1
 
 ## Features
 
