@@ -12,6 +12,7 @@ A simple flashcard application built with React that displays a series of questi
   Seu navegador não suporta o elemento de vídeo.
 </video>
 
+https://github.com/user-attachments/assets/d7214f43-9ef2-40ff-b23f-b23b6182eda1
 
 ## Features
 
